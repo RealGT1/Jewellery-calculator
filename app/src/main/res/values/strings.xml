@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jewellery Calculator</string>
+    
+    <!-- Rate Input Screen -->
+    <string name="rate_input_title">Enter Today\'s Rates</string>
+    <string name="gold_rate_label">Gold Rate (per gram)</string>
+    <string name="silver_rate_label">Silver Rate (per gram)</string>
+    <string name="proceed_button">Proceed to Billing</string>
+    <string name="invalid_rate">Please enter a valid rate</string>
+    
+    <!-- Main Billing Screen -->
+    <string name="billing_title">Create Bill</string>
+    <string name="add_gold_item">Add Gold Item</string>
+    <string name="add_silver_item">Add Silver Item</string>
+    <string name="generate_bill">Generate Bill</string>
+    <string name="no_items_added">No items added yet</string>
+    
+    <!-- Item Entry -->
+    <string name="item_name_label">Item Name/ID</string>
+    <string name="weight_label">Weight (grams)</string>
+    <string name="quantity_label">Quantity</string>
+    <string name="making_charge_label">Making Charge</string>
+    <string name="add_item">Add Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="invalid_input">Please fill all fields with valid values</string>
+    
+    <!-- Totals Display -->
+    <string name="silver_total">Silver Total: ₹%.2f</string>
+    <string name="gold_total">Gold Total: ₹%.2f</string>
+    <string name="grand_total">Grand Total: ₹%.2f</string>
+    
+    <!-- Bill Summary -->
+    <string name="bill_summary_title">Bill Summary</string>
+    <string name="silver_items">Silver Items</string>
+    <string name="gold_items">Gold Items</string>
+    <string name="item_details">%s - %dg × %d = %dg + %.1f%% wastage = %.1fg @ ₹%.2f + ₹%.2f making = ₹%.2f</string>
+    <string name="new_bill">New Bill</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
